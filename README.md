@@ -1,4 +1,4 @@
-# Starter ! 🌑🦇
+# StarterHTML! 🌑🦇
 
 HTML CSS SCSS FONTAWESOME & BOOTSTRAP STARTER
 
