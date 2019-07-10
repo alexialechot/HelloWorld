@@ -25,4 +25,4 @@ Only modify SCSS files, not CSS!
 
 <br><hr><br>
 
-&copy; 2019 [Alexia Lechot](https://uxmilk.co)
+&copy; 2019 [Alexia Lechot / KRAKENWAVE](https://krakenwave.ch)
