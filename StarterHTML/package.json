@@ -6,7 +6,7 @@
 		"start": "gulp watch"
 	},
 	"description": " HTML CSS SCSS FONTAWESOME & BOOTSTRAP STARTER",
-	"keywords": ["css", "sass", "html", "responsive"],
+	"keywords": [ "css", "sass", "html", "responsive" ],
 	"homepage": "https://startbootstrap.com/template-overviews/grayscale",
 	"bugs": {
 		"url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
@@ -14,26 +14,26 @@
 	},
 	"license": "MIT",
 	"author": "Starter",
-	"contributors": ["KRAKENMILK"],
+	"contributors": [ "KRAKENMILK" ],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/alexlechot/Starter"
 	},
 	"dependencies": {
-		"@fortawesome/fontawesome-free": "5.9.0",
-		"bootstrap": "4.3.1",
+		"@fortawesome/fontawesome-free": "5.12.1",
+		"bootstrap": "4.4.1",
 		"jquery": "3.4.1",
 		"jquery.easing": "^1.4.1"
 	},
 	"devDependencies": {
 		"browser-sync": "2.26.7",
-		"del": "5.0.0",
+		"del": "5.1.0",
 		"gulp": "4.0.2",
-		"gulp-autoprefixer": "6.1.0",
+		"gulp-autoprefixer": "7.0.1",
 		"gulp-clean-css": "4.2.0",
 		"gulp-header": "2.0.9",
 		"gulp-plumber": "^1.2.1",
-		"gulp-rename": "1.4.0",
+		"gulp-rename": "2.0.0",
 		"gulp-sass": "4.0.2",
 		"gulp-uglify": "3.0.2",
 		"merge-stream": "^2.0.0"
