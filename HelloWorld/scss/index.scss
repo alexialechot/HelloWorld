@@ -1,31 +1,21 @@
-@import 'variables.scss';
+@import 'colors.scss';
 @import 'navbar.scss';
-@import 'masthead.scss';
+@import 'header.scss';
 @import 'buttons.scss';
-@import 'contact.scss';
+@import 'footer.scss';
 
 body {
-  font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 a {
-  color: $primary;
-  &:focus,
-  &:hover {
-    text-decoration: none;
-    color: darken($primary, 20%);
-  }
+	color: $primary;
+	&:focus,
+	&:hover {
+		text-decoration: none;
+		color: darken($primary, 20%);
+	}
 }
 
-.bg-black {
-  background-color: $black !important;
-}
-
-.bg-primary {
-  background-color: $primary !important;
-}
-
-.text-primary {
-  color: $primary !important;
-}
-
+// Import Bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
